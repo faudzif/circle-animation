@@ -1,0 +1,19 @@
+{
+  "name": "circle-animation",
+  "version": "1.0.0",
+  "description": "circle animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faudzif/circle-animation.git"
+  },
+  "author": "farhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faudzif/circle-animation/issues"
+  },
+  "homepage": "https://github.com/faudzif/circle-animation#readme"
+}
