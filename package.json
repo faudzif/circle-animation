@@ -4,7 +4,7 @@
   "description": "circle animation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/faudzif/circle-animation/issues"
   },
-  "homepage": "https://github.com/faudzif/circle-animation#readme"
+  "homepage": "https://github.com/faudzif/circle-animation#readme",
+  "devDependencies": {
+    "html": "^1.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "loader": "^2.1.1",
+    "webpack": "^4.39.1",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2"
+  }
 }
